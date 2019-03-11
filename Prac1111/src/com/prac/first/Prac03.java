@@ -8,8 +8,7 @@ public class Prac03 {
 		int a=90;
 		int b=70;
 		System.out.println("for the revert ");
-		System.out.println("--------------------");
-		System.out.println("we will check for update");
+	
 		
 		
 	}
